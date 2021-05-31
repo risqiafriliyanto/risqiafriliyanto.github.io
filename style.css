@@ -1,0 +1,54 @@
+.jumbotron{
+    margin-top: 10px;
+    padding: 10px;
+    background-image: url("image/surveyor1.png");
+    color:azure;
+    background-size: cover;
+    min-height: 100%;
+}
+.jumbotron .profile img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.satu{
+    border: 2px solid grey;
+    margin-top: 10px;
+}
+.dua{
+    margin-top: 10px;
+    background-color: lightblue;
+}
+.dua .about .quotes{
+    font-size: 20px;
+    color : white;
+    margin-top: 20px;
+    margin-bottom: 20px ;
+}
+.tiga{
+    margin-top: 10px;
+    background-color: lightgray;
+    padding : 5px;
+    margin-bottom : 10px;
+}
+.tiga .pengalaman .container p{
+    margin: 5PX;
+}
+.empat{
+    border : 2px solid black;
+}
+.lima{
+    margin-top: 10px;
+    background-color: lightgray;
+    padding: 10px;
+}
+.lima img{
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+}
+.enam{
+    padding: 5px;
+    margin-top: 10px;
+    background-color: linen;
+}
