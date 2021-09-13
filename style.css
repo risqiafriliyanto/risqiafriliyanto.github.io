@@ -25,14 +25,18 @@
     margin-top: 20px;
     margin-bottom: 20px ;
 }
+.dua .about .col{
+    text-align: justify;
+}
 .tiga{
     margin-top: 10px;
     background-color: lightgray;
     padding : 5px;
     margin-bottom : 10px;
 }
-.tiga .pengalaman .container p{
+.tiga .pengalaman p{
     margin: 5PX;
+    text-align: justify;
 }
 .empat{
     border : 2px solid black;
@@ -51,4 +55,8 @@
     padding: 5px;
     margin-top: 10px;
     background-color: linen;
+}
+.enam .btn a{
+    color: white;
+    text-decoration: none;
 }
